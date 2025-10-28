@@ -29,7 +29,7 @@ This project is an "autonomous fire-fighting robot vehicle" that detects fire us
 
 
 # Robot Images
-![Robot](/fire_fighting_robot.png)
+![Robot](fire_fighting_robot.jpeg)
 
 # Future Improvements
 - Add obstacle avoidance using ultrasonic sensors.
