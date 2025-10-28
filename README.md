@@ -37,9 +37,5 @@ This project is an "autonomous fire-fighting robot vehicle" that detects fire us
 - Use temperature sensors for better fire detection accuracy.
 
 # Developer/s
-**Ashish Kumar Gupta**
-**Balmukund Maurya**
-**Himanshu Soni**
-**Suryansh Pandey**
-**Vikhyat Mishra**
+**Ashish Kumar Gupta | Balmukund Maurya | Himanshu Soni | Suryansh Pandey | Vikhyat Mishra**
 [GitHub Profile](https://github.com/ashish118258)
