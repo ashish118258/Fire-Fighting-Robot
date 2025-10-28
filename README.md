@@ -25,10 +25,10 @@ This project is an "autonomous fire-fighting robot vehicle" that detects fire us
 | Chassis | 1 | Robot body |
 
 # Circuit Diagram
-![Circuit Diagram](images/circuit_diagram.png)
+![Circuit Diagram](/circuit_diagram.png)
 
 # Robot Images
-![Robot](images/project.png)
+![Robot](/fire_fighting_robot.png)
 
 # Future Improvements
 - Add obstacle avoidance using ultrasonic sensors.
@@ -37,8 +37,8 @@ This project is an "autonomous fire-fighting robot vehicle" that detects fire us
 
 # Developer/s
 **Ashish Kumar Gupta**
-**Balmukund Ayushi Maurya**
-**Himanshu Sakshi Soni**
-**Suryansh Limit Pandey**
-**Vikhyat Preet Mishra**
+**Balmukund Maurya**
+**Himanshu Soni**
+**Suryansh Pandey**
+**Vikhyat Mishra**
 [GitHub Profile](https://github.com/ashish118258)
