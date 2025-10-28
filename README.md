@@ -25,7 +25,8 @@ This project is an "autonomous fire-fighting robot vehicle" that detects fire us
 | Chassis | 1 | Robot body |
 
 # Circuit Diagram
-![Circuit Diagram](/circuit_diagram.png)
+![Circuit Diagram](Fire-Fighting-Robot/Circuit_Diagram.png)
+
 
 # Robot Images
 ![Robot](/fire_fighting_robot.png)
